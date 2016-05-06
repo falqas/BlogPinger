@@ -50,6 +50,26 @@ angular.module('myApp.controllers', [])
       textMessages.$add(newTextMessage);
     }
 
+// Molly Lloyd +16098655380
+// Jake  Garelick  +18584447558
+// Faisal  Al Qasimi +19179810749
+// Kevin Aujla +15109319334
+// Andrew  Huang +19734327552
+// Ryan  James +16782960196
+// Jia Li  +16148861462
+// Cyrus Gomez +17073320862
+// Yusuf Modan +14152727458
+// Renan Deswarte  +14159880707
+// Stephen Donahue +13238298447
+// Bobby Velasco +17605213869
+// Arthur  Mathies +491757025798
+// Rachel  Lader +13015280050
+// Alex  Kim +19173311089
+// Mel Lu  +16509961742
+// Aaron Spafford  +14159403835
+// Royce Leung +14157222262
+// Sonny Parsonage +14152691458
+
 
 
   }]);

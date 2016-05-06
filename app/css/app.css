@@ -13,3 +13,9 @@ body {
 .party-form {
   margin-bottom: 20px;
 }
+
+.btn-xlarge {
+    padding: 18px 28px;
+    font-size: 35px;
+    line-height: normal;
+}

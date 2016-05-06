@@ -11,7 +11,7 @@
         <label for="sizeOfParty">Size of Party</label>
         <input ng-model="newParty.size" type="text" class="form-control" id="sizeOfParty" placeholder="e.g. 3">
     </div> -->
-    <button type="submit" class="btn btn-primary">Add party</button>
+    <button type="submit" class="btn btn-primary">Add person</button>
 </form>
 <table class="table table-striped table-bordered">
     <thead>
@@ -42,4 +42,9 @@
             <button ng-click="sendTextMessage(party)" type="submit" class="btn btn-success">Send SMS</button>
             <button ng-click="parties.$remove(party.$id)" type="submit" class="btn btn-danger">Remove</button>
             <!-- ng-repeat is angular feature that will repeat the html for each item in collection -->
+            </td>
+
+
 </table>
+<p align="center">
+<button ng-click="spamAll(party)" type="submit" class="btn-xlarge btn-danger">Spam All</button></p>
